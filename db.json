@@ -1,0 +1,10 @@
+{
+  "restaurant": [
+    {
+      "nombrePlatillo": "Ensalada Cesar",
+      "precioPlatillo": "250",
+      "categoria": "ensalada",
+      "id": 3
+    }
+  ]
+}
